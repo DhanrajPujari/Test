@@ -1,0 +1,48 @@
+.hero{
+    background-image: url("../images/banner.png.webp");
+    background-size: cover;
+
+}
+.content-div{
+}
+.hero-btn:hover{
+    background-color: yellow;
+    color: black;
+}
+.rounded-sign{
+    border-radius: 50%;
+    font-size: 25px;
+}
+.fa-envelope{
+    font-size: 100px;
+    color: #f2c64d;
+}
+.practice1{
+    background-image: url("../images/forground/4.png.webp");
+    background-size: cover;
+}
+.review-bg{
+    background-image: url("../images/testmonial_bg.png.webp");
+    filter: brightness(70%);
+}
+.fa-quote-right{
+    font-size: 45px;
+    filter: brightness(100%);
+
+}
+.img-text{
+    filter: brightness(100%);
+    font-size: 25px;
+}
+.footer-a:hover{
+    color: #f2c64d;
+}
+.nav-font{
+    font-size: 20px;
+}
+.space{
+    letter-spacing: 5px;
+}
+.hero-h1{
+    font-size: 50px;
+}
